@@ -28,6 +28,7 @@ gotip install
 直接在 GoLand 里面选择 WSL 目录下的项目就可以。
 
 打开之后，要修改项目的设置，打开 GoLand 的设置：
+
 ![Goland 设置](img/goland_setting.png)
 
 ![修改 GOROOT 为 gotip 目录](img/go_root_gotip.png)
@@ -36,6 +37,7 @@ gotip install
 
 ## 修改 go.mod
 在这一步还没有完成，我们需要修改 go.mod 里面的 Go 版本：
+
 ![修改 go.mod 中 Go 版本](img/go_mod_gotip.png)
 
 ## 写一个测试：
